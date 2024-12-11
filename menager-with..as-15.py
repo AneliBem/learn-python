@@ -1,5 +1,5 @@
 # try:
-#     file = open("text.txt", "r") # а = додавання інформації до файлу
+#     file = open("text.txt", "r")
 #     print(file.read())
 # except FileNotFoundError:
 #     print("File not found")
